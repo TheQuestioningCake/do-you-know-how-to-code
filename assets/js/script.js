@@ -34,25 +34,25 @@ var containerQuestionEl = document.getElementById("question-box");
           a: '4. all of the above', 
           choices: [{choice: '1. numbers'}, {choice: '2. booleans'}, {choice: '3. strings'}, {choice: '4. all of the above'}]
         },
-        { q: 'Inside which HTML element do we put the javascript?', 
+        { q: 'What tag do we use to link our HTML and Javascript?', 
           a: '3. <script>', 
-          choices: [{choice: '1. <h1>'}, {choice: '2. <js>'}, {choice: '3. <script>'}, {choice: '4. <head>'}]
+          choices: [{choice: '1. <style.css>'}, {choice: '2. <js>'}, {choice: '3. <script>'}, {choice: '4. <java>'}]
         },
         { q: 'Which one is considered a Boolean?', 
           a: '1. false', 
           choices: [{choice: '1. false'}, {choice: '2. undefined'}, {choice: '3. variable'}, {choice: '4. all of the above'}]
         },
-        { q: 'What syntax would call a function?', 
-          a: '4. function()', 
-          choices: [{choice: '1. var function'}, {choice: '2. function'}, {choice: '3. call function'}, {choice: '4. function()'}]
+        { q: 'How do you call a function?', 
+          a: '4. "function name"()', 
+          choices: [{choice: '1. ()'}, {choice: '2. funky funk'}, {choice: '3. call function'}, {choice: '4. "function name"()'}]
         },
         { q: 'How would you create a string?', 
           a: '1. " "', 
           choices: [{choice: '1. " "'}, {choice: '2. { }'}, {choice: '3. ( )'}, {choice: '4. [ ]'}]
         },
-        { q: 'What does DOM stand for?', 
-          a: '2. Document Object Model', 
-          choices: [{choice: '1. Do Overnight Modules'}, {choice: '2. Document Object Model'}, {choice: '3. Divas Obviously Model'}, {choice: '4. Do Oo Mo'}]
+        { q: 'How do you add one to an index?', 
+          a: '2. i++', 
+          choices: [{choice: '1. i+'}, {choice: '2. i++'}, {choice: '3. i**'}, {choice: '4. i-+'}]
         },
         { q: 'How many times can you assign an ID?', 
           a: '2. once', 
